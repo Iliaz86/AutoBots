@@ -4,6 +4,7 @@ import java.time.LocalDateTime;
 
 public class Transaction {
     private final String type;
+
     public final double amount;
     private final LocalDateTime timeStamp = LocalDateTime.now();
 
