@@ -1,6 +1,6 @@
 package com.autobots.car;
 
-public class bmw {
+public class BMW {
     public static void main(String[] args) {
 
     }
