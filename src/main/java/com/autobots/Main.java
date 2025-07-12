@@ -8,6 +8,10 @@ public class Main {
         // I love git
         // git pull vs git fetch
         // git pull practice
+
+        // git pull --> git fetch --> git merge
+        // New changes
+
         
         
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
